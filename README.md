@@ -52,6 +52,9 @@
 
 ---
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [linktree]: https://linktr.ee/Hugo.Fr
 [linkedin]: https://www.linkedin.com/in/hugofrançois
