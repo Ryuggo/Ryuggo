@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ryuggo?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
-## I'm a Student (looking for a stage), and!!
+## I'm a Student (looking for a stage), and 
 
 - 🌱 I’m currently learning JSBD, Spring, Oracle, AngularJS and RServe
 - 👯 I’m looking to improve myself as much as one can
@@ -52,12 +52,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Ryuggo's GitHub Stats" src="https://github-readme-stats.ryuggo.vercel.app/api?username=Ryuggo&show_icons=true&hide_border=true" />
-
-</details>
 
 [linktree]: https://linktr.ee/Hugo.Fr
 [linkedin]: https://www.linkedin.com/in/hugofrançois
