@@ -56,10 +56,10 @@
 
 ---
 
-<img align="left" alt="Ryuggo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryuggo&show_icons=true&hide_border=true&e&theme=dark" />
-<!-- <img align="left" alt="Ryuggo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryuggo&show_icons=true&hide_border=true&e&bg_color=30,e96443,904e95" /> -->
+<img align="center" alt="Ryuggo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryuggo&show_icons=true&hide_border=true&e&theme=dark" />
+<!-- <img align="center" alt="Ryuggo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryuggo&show_icons=true&hide_border=true&e&bg_color=30,e96443,904e95" /> -->
 
-<img align="left" alt="Ryuggo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&theme=dark" />
+<img align="center" alt="Ryuggo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&theme=dark" />
 
 [linktree]: https://linktr.ee/Hugo.Fr
 [linkedin]: https://www.linkedin.com/in/hugofrançois
