@@ -15,10 +15,8 @@
 [<img align="left" alt="HugoFrançois | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="Ryuggo_F | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!--
 [<img align="left" alt="Ryuggo F | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ryuggo F | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
 
 <br />
 
@@ -49,7 +47,7 @@
 
 <br />
 <br />
-
+<!--
 ---
 
 ### 📕 Latest Blog Posts
@@ -59,8 +57,9 @@
 ---
 
 <img align="left" alt="Ryuggo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryuggo&show_icons=true&hide_border=true&e&theme=dark" />
+<!-- <img align="left" alt="Ryuggo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryuggo&show_icons=true&hide_border=true&e&bg_color=30,e96443,904e95" /> -->
 
-<img align="left" alt="Ryuggo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+<img align="left" alt="Ryuggo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&theme=dark" />
 
 [linktree]: https://linktr.ee/Hugo.Fr
 [linkedin]: https://www.linkedin.com/in/hugofrançois
