@@ -58,7 +58,7 @@
 
 ---
 
-<img align="left" alt="Ryuggo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryuggo&show_icons=true&hide_border=true" />
+<img align="left" alt="Ryuggo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryuggo&show_icons=true&hide_border=true&e&theme=dark" />
 
 [linktree]: https://linktr.ee/Hugo.Fr
 [linkedin]: https://www.linkedin.com/in/hugofrançois
