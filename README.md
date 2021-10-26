@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ryuggo?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
-## I'm a Student (looking for a stage), and 
+## I'm an IT Student (looking for a stage), and I'd like to make a indie video game later on
 
 - 🌱 I’m currently learning JSBD, Spring, Oracle, AngularJS and RServe
 - 👯 I’m looking to improve myself as much as one can
