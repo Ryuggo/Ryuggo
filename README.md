@@ -2,9 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ryuggo_f?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
-## I'm an IT Student, and I'd like to make a game
+## I'm an IT Student and I'd like to make a game
 
-- 🌱 I’m currently learning JSBD, Spring, Oracle, AngularJS and RServe
+- 🌱 I’m currently learning JSBD, Oracle, AngularJS and ReactJS
 - 👯 I’m looking to improve myself as much as one can
 - 🥅 2022 Goals: Start my own indie project & Update my progress on social media
 - ⚡ Fun fact: I love to draw and play dnd & video games
