@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="Hugo.Fr | LinkTree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linktree.svg" />][linktree] -->
-[<img align="left" alt="HugoFrançois | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hugo F | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack]
+[<img align="left" alt="Hugo.Fr | LinkTree" width="22px" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" />][linktree]
+[<img align="left" alt="HugoFrançois | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+[<img align="left" alt="Hugo F | Stack Overflow" width="22px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />][stack]
 
 [<img align="left" alt="Ryuggo_F | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
 [<img align="left" alt="Ryuggo F | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" />][youtube]
