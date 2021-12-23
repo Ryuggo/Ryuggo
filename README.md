@@ -43,7 +43,7 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 
-<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
+<img align="left" alt="Unity" width="26px" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
 
 <br />
 <br />
