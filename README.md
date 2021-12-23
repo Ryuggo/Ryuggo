@@ -1,6 +1,6 @@
 ### Hi there, I'm Hugo 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ryuggo?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ryuggo_f?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm an IT Student (looking for a stage), and I'd like to make a game
 
