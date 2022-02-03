@@ -4,7 +4,7 @@
 
 ## I'm an IT Student and I'd like to make a game
 
-- 🌱 I’m currently learning React, Entity Framework, making an API and Unity
+- 🌱 I’m currently learning React, Entity Framework and how to make an API
 - 👯 I’m looking to improve myself as much as one can
 - 🥅 2022 Goals: Start my own indie project & Update my progress on social media
 - ⚡ Fun fact: I love to draw and play dnd & video games
