@@ -4,10 +4,14 @@
 
 ## I'm an IT Student and I'd like to make a game
 
-- 🌱 I’m currently learning React, Entity Framework, Mercator and discord.js
+- 🌱 I’m currently learning React, GraphQL, Entity Framework and discord.js
 - 👯 I’m looking to improve myself as much as one can
 - 🥅 2022 Goals: Start my own indie project & Update my progress on social media
-- ⚡ Fun fact: I love to draw and play dnd & video games
+- 🎲 Fun fact: I love to draw and play dnd & video games
+
+<br />
+
+---
 
 ### Connect with me:
 
@@ -18,9 +22,6 @@
 [<img align="left" alt="Ryuggo_F | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
 [<img align="left" alt="Ryuggo F | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" />][youtube]
 [<img align="left" alt="Ryuggo F | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
-
-
-<br />
 
 ### Languages and Tools learned:
 
@@ -47,12 +48,6 @@
 
 <br />
 <br />
-<!--
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
