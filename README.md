@@ -23,6 +23,8 @@
 [<img align="left" alt="Ryuggo F | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" />][youtube]
 [<img align="left" alt="Ryuggo F | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
 
+<br />
+
 ### Languages and Tools learned:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
