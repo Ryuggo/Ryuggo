@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ryuggo_f?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
-## I'm an IT Student and I'd like to make a game
+## I'm an IT Developer and I'd like to make a game
 
 - 🌱 I’m currently learning React, GraphQL, Entity Framework and discord.js
 - 👯 I’m looking to improve myself as much as one can
-- 🥅 2022 Goals: Start my own indie project & Update my progress on social media
+- 🥅 2023 Goals: Start my own indie project & Update my progress on social media
 - 🎲 Fun fact: I love to draw and play dnd & video games
 
 <br />
@@ -62,5 +62,5 @@
 [linkedin]: https://www.linkedin.com/in/hugofrançois
 [twitter]: https://twitter.com/intent/user?screen_name=Ryuggo_F
 [youtube]: https://www.youtube.com/channel/UCa_BvcA2FjNwPDM2MJb5muA
-[instagram]: https://instagram.com/
+[instagram]: https://www.instagram.com/ryuggo_f/
 [stack]: https://stackoverflow.com/users/17664450/hugo-fr
