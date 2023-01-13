@@ -9,8 +9,6 @@
 - 🥅 2023 Goals: Start my own indie project & Update my progress on social media
 - 🎲 Fun fact: I love to draw and play dnd & video games
 
-<br />
-
 ---
 
 ### Connect with me:
