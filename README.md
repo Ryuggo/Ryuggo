@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning React, GraphQL, Entity Framework and discord.js
 - 👯 I’m looking to improve myself as much as one can
-- 🥅 2023 Goals: Start my own indie project & Update my progress on social media
+- 🥅 2024 Goals: Make multiple game tools to help devs to launch their game faster
 - 🎲 Fun fact: I love to draw and play dnd & video games
 
 ---
@@ -18,7 +18,7 @@
 [<img align="left" alt="Hugo F | Stack Overflow" width="22px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />][stack]
 
 [<img align="left" alt="Ryuggo_F | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
-[<img align="left" alt="Ryuggo F | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" />][youtube]
+[<img align="left" alt="Ryuggo F | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" />][youtube]
 [<img align="left" alt="Ryuggo F | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
 
 <br />
