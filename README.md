@@ -2,12 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ryuggo_f?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
-## I'm an IT Developer and I'd like to make a game
+## Software Engineer
 
-- 🌱 I’m currently learning React, GraphQL, Entity Framework and discord.js
-- 👯 I’m looking to improve myself as much as one can
-- 🥅 2024 Goals: Make multiple game tools to help devs to launch their game faster
-- 🎲 Fun fact: I love to draw and play dnd & video games
+- 🌱 Currently improving in Odoo
+- 👯 Striving to be better than yesterday
+- 🎲 Homebrewing DnD, Climbing and Video Games
 
 ---
 
@@ -62,3 +61,4 @@
 [youtube]: https://www.youtube.com/channel/UCa_BvcA2FjNwPDM2MJb5muA
 [instagram]: https://www.instagram.com/ryuggo_f/
 [stack]: https://stackoverflow.com/users/17664450/hugo-fr
+
