@@ -1,6 +1,4 @@
-### Hi there, I'm Hugo 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ryuggo_f?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
+### Hi there,
 
 ## Software Engineer
 
@@ -12,13 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Hugo.Fr | LinkTree" width="22px" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" />][linktree]
 [<img align="left" alt="HugoFrançois | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 [<img align="left" alt="Hugo F | Stack Overflow" width="22px" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" />][stack]
-
-[<img align="left" alt="Ryuggo_F | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />][twitter]
-[<img align="left" alt="Ryuggo F | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-icon-5.svg" />][youtube]
-[<img align="left" alt="Ryuggo F | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
 
 <br />
 
@@ -61,4 +54,5 @@
 [youtube]: https://www.youtube.com/channel/UCa_BvcA2FjNwPDM2MJb5muA
 [instagram]: https://www.instagram.com/ryuggo_f/
 [stack]: https://stackoverflow.com/users/17664450/hugo-fr
+
 
