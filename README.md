@@ -1,5 +1,3 @@
-### Hi there,
-
 ## Software Engineer
 
 - 🌱 Currently improving in Odoo
@@ -15,28 +13,9 @@
 
 <br />
 
-### Languages and Tools learned:
+### Misc
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
-<img align="left" alt="PhP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-
-<img align="left" alt="Unity" width="26px" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
+I don't use Arch btw
 
 <br />
 <br />
@@ -54,5 +33,6 @@
 [youtube]: https://www.youtube.com/channel/UCa_BvcA2FjNwPDM2MJb5muA
 [instagram]: https://www.instagram.com/ryuggo_f/
 [stack]: https://stackoverflow.com/users/17664450/hugo-fr
+
 
 
