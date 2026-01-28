@@ -13,6 +13,9 @@
 [stack]: https://stackoverflow.com/users/17664450/hugo-fr
 </br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ryuggo/Ryuggo/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ryuggo/Ryuggo/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img alt="github-snake" src="https://github.com/Ryuggo/Ryuggo/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
