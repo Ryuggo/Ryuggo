@@ -11,3 +11,8 @@
 
 [linkedin]: https://www.linkedin.com/in/hugofrançois
 [stack]: https://stackoverflow.com/users/17664450/hugo-fr
+</br>
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
